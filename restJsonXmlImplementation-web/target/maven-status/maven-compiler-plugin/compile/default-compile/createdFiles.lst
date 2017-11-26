@@ -1,0 +1,9 @@
+com\f1soft\rest\pojoClasses\SubjectEnrolledPojo.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+com\f1soft\rest\daoclasses\UserDao.class
+com\f1soft\rest\pojoClasses\User.class
+com\f1soft\rest\pojoClasses\StudentPojo.class
+com\f1soft\rest\resource\DefaultResource.class
+com\f1soft\rest\resource\StudentResource.class
+com\f1soft\rest\utilities\StudentInfoUtils.class
+com\f1soft\rest\resource\UserResource.class
